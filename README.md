@@ -3,6 +3,19 @@ The Yeoman Character Generator generates a random Hero’s Journey character usi
 
 -------------------
 
+A live version of the Yeoman Character Generator is available at:
+
+https://www.oldschooladventures.org/hero/more/classes/yeoman/
+
+
+-----------------------
+
+Update 1.01: 2021-03-16
+
+A launch page for Yeoman Character Generator has been added.
+
+
+
 Initial commit: 2021-03-08
 
 The initial commit for the Yeoman Character Generator.
